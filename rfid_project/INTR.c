@@ -71,3 +71,5 @@ void REMOVE(void)__irq
 		LCD_STR("PRODUCT IS REMOVED");
 		VICVectAddr=0;	
 }
+
+
